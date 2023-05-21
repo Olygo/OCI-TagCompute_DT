@@ -32,7 +32,7 @@
 -cfp  config_file     		change OCI config_file path, default: ~/.oci/config
 -cp   config_profile  		indicate config file section to use, default: DEFAULT
 -tn   tag_namespace  		tag namespace hosting your tagkey, no default
--tk   tag_key  		tag key to apply, no default
+-tk   tag_key  			tag key to apply, no default
 -tlc  compartment_ocid   	scan only a specific compartment, default: scan from root compartment
 -rg   region_name   		scan only a specific region, default: scan all regions
 -h,   --help           		show this help message and exit
