@@ -229,4 +229,3 @@ def get_region_subscription_list(identity_client, tenancy_id, target_region):
             raise SystemExit
 
     return active_regions.data
-

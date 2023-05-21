@@ -51,4 +51,3 @@ def tag_resources(type, oci_client, resource_id, defined_tags_dict):
 
  
     return response
-

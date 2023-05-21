@@ -83,7 +83,6 @@ def list_boot_volume_backups(blk_storage_client, compartment_id, boot_volume_id)
             my_bootvol_backups.append(bootvolbkp)
     return my_bootvol_backups
 
-
 ##########################################################################
 # list all block volume attachement for each instance
 ##########################################################################

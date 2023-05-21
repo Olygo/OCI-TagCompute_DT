@@ -2,7 +2,7 @@
 
 **TagCompute** is a demonstration script showing you how to apply defined tag to compute related resources.
 
-# Quick install on Oracle Linux 7.9 
+# Quick install on Oracle Linux 7.9
 
 	curl https://raw.githubusercontent.com/Olygo/OCI-TagCompute_DT/main/install.sh | bash
 
